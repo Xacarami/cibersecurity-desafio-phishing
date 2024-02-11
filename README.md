@@ -20,3 +20,9 @@
 ### Resutados
 
 ![image](https://github.com/Xacarami/cibersecurity-desafio-phishing/assets/57050195/340a23a1-89cc-40ef-98c8-cc8d354e74d5)
+
+
+- E dentro da pasta de reports (/root/.net/reports) é gravado os reports capturados da ferramenta.
+
+![image](https://github.com/Xacarami/cibersecurity-desafio-phishing/assets/57050195/147b347f-2fd8-4765-9e2d-d87541e95660)
+
