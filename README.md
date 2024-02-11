@@ -14,8 +14,9 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: https://www.mirtesnet.com.br/ (deveria ser o facebook.com, porém não funciona mais)
+-- pegou mais informações do que apenas email e senha pois o site pede também gênero e data de nascimento.
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/Xacarami/cibersecurity-desafio-phishing/assets/57050195/340a23a1-89cc-40ef-98c8-cc8d354e74d5)
